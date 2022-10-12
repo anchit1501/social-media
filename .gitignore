@@ -1,0 +1,10 @@
+dataset
+dataverse_files
+final_dataset
+hydrator
+data.jsonl
+dataverse_files.zip
+settings.json
+*.json
+*.jsonl
+*.csv
